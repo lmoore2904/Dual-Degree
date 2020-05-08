@@ -1,4 +1,4 @@
 # [Welcome!](About_Me.md)
 
 # Classes
-- #### [Calculus](Calculus/Table_Of_Contents.md)
+- #### [Calculus 1](Calculus/Table_Of_Contents.md)
