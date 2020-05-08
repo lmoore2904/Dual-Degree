@@ -9,6 +9,8 @@ The most common question a teacher is asked: **_"When Will I ever Use This??"_**
 
 These dual goals are the purpose of this page.
 
+---
+
 ## Who Am I?
 
 Hi, I'm Lauren. Math has been my soul and passion since middle school. I was no prodigy child, just someone who knew how to bury my head in a book and work hard. That mentality carried from middle school onto college. I graduated Summa Cum Laude with dual degrees in mathematical economics (actuarial math) and pure mathematics (proofs). In addition, I had a minor in statistics.
