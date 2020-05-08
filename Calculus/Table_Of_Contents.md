@@ -1,1 +1,1 @@
-# [Home](../README.md)
+# [Home](Dual-Degree/README.md)
