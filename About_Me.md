@@ -1,3 +1,4 @@
+## [Home](README.md)
 ## What Is This Page?
 Math. You either love it or you hate it, this website is meant for both types of people. My goal is to make math more approachable for the general audience, whether you dream of being a number-crunching engineer or would rather write your heart out as a journalist. Regardless of the final career path, we must all have a basic understanding of mathematics. There are two types of understanding I intend to address:
 
